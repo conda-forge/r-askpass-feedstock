@@ -3,6 +3,7 @@ About r-askpass-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-askpass-feedstock/blob/main/LICENSE.txt)
 
+
 About r-askpass
 ---------------
 
@@ -11,6 +12,7 @@ Home: https://github.com/jeroen/askpass#readme
 Package license: MIT
 
 Summary: Cross-platform utilities for prompting the user for credentials or a  passphrase, for example to authenticate with a server or read a protected key. Includes native programs for MacOS and Windows, hence no 'tcltk' is required.  Password entry can be invoked in two different ways: directly from R via the  askpass() function, or indirectly as password-entry back-end for 'ssh-agent'  or 'git-credential' via the ssh_askpass and git_askpass environment variables. Thereby the user can be prompted for credentials or a passphrase if needed  when R calls out to git or ssh.
+
 About r-askpass
 ---------------
 
